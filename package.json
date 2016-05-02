@@ -1,0 +1,21 @@
+{
+  "name": "grunt-searchm",
+  "version": "0.1.0",
+  "description": "Grunt search string or regex in files with multiline support and log matches to a json file",
+  "main": "index.js",
+  "author": "Aleksei Polechin (http://alek.be)",
+  "license": "GPL",
+  "keywords": [
+    "gruntplugin",
+    "search",
+    "multiline",
+    "pattern",
+    "patterns",
+    "match",
+    "text",
+    "string",
+    "regex",
+    "regexp",
+    "json"
+  ]
+}
